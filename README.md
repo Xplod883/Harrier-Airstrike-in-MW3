@@ -8,3 +8,7 @@ How this was made was making Function HIjack, making this technique is for not e
 *This script replaces the Airstrike killstreak, as a note.
 
 After coding in reference of the functions of _harrier.gsc, _airstrike.gsc and understanding the utility.gsc (Because into MW2 and MW3, the IW devs deleted the "" of a lot of functions in comparation of the MW2 _utility.gsc, cleaning the .gsc file for MW3) and the interface of the map checkpoint selection in _killstreaks.gsc, i've finally made the .gsc file to replace the Airstrike to the Harrier.
+
+Video: https://youtu.be/BdcjCkkMaD4?si=-EdRRHB3TJ_akBku
+
+Install it into AppData\Local\Plutonium\Storage\iw5\scripts.
